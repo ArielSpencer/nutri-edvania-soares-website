@@ -31,9 +31,10 @@
   --color-btn-accent: oklch(0.8 0.18 78.81);
   --color-btn-accent-hover: oklch(0.68 0.08 67.43);
 
-  --radius-sm: 0.25rem;
-  --radius-md: 0.5rem;
-  --radius-lg: 0.75rem;
+  --radius-sm: 0.5rem;
+  --radius-md: 1rem;
+  --radius-lg: 2rem;
+  --radius-xl: 8rem;
 
   --ease-standard: cubic-bezier(0.3, 0, 0, 1);
   --ease-emphasized: cubic-bezier(0.2, 0, 0, 1);
