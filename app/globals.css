@@ -15,10 +15,12 @@
   --color-primary: oklch(100% 0 0);
   --color-secondary: oklch(0.68 0.08 67.43);
   --color-accent: oklch(0.49 0.13 142.41);
+  --color-error: oklch(0.577 0.245 27.325);
 
   --color-text-body: oklch(0.51 0.003 264.97);
   --color-text-heading: oklch(0.42 0.07 67.16);
   --color-text-light: oklch(100% 0 0);
+  --color-text-attention: oklch(0.577 0.245 27.325);
 
   --color-bg-primary: oklch(100% 0 0);
   --color-bg-secondary: oklch(0.93 0.008 98.19);
